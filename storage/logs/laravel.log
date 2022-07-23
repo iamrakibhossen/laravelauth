@@ -1,0 +1,4 @@
+[2022-07-23 07:49:00] local.ERROR: Constant expression contains invalid operations {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Constant expression contains invalid operations at H:\\larav\\app\\Http\\Controllers\\Auth\\LoginController.php:29)
+[stacktrace]
+#0 {main}
+"} 
